@@ -4,3 +4,5 @@
 #### 已弃:
 
 使用QScrollArea时滚动条无法置底: [`nodegui #834`](https://github.com/nodegui/nodegui/issues/834)
+
+### 已转Python的Pyqt: [`bilive-manager`](https://github.com/vinoxm/bilive-manager)
